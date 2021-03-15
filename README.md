@@ -1,7 +1,7 @@
 # data_structure
 [study link](https://www.runoob.com/data-structures/data-structures-tutorial.html)
 数据结构（英语：data structure）是计算机中存储、组织数据的方式。
-常见的数据结构:
+- 常见的数据结构:
     - 栈（stack）：是一种特殊的线性表，它只能在一个表的一个固定端进行数据节点的插入，和删除操作
     - 队列（queue）： 和栈类似，也是一种特殊的线性表，和栈不同的是，队列只能在一端进行插入操作，而在另一端进行删除操作
     - 数组（array）：是一种聚合数据类型，它是将若干相同类型的变量，有序组织在一起的集合
